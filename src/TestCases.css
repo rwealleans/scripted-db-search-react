@@ -1,0 +1,9 @@
+.TestCases {
+  margin: 10px;
+}
+
+.TestCase {
+  background-color: lightgray;
+  margin: 5px;
+  padding: 10px;
+}
